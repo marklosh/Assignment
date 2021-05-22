@@ -11,4 +11,6 @@ def reverseArray(A):
         pointer2 -= 1
         pointer1 += 1
     return A
+##output
+print(reverseArray[10, 20, 30, 40, 50, 60, 70, 80, 90, 100])
         
